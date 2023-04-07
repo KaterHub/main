@@ -353,17 +353,17 @@ pre {
     
     /* Create the gradient. */
      background-image: linear-gradient(
-          45deg,
-          #0088ff 16.666%, 
-          #004cff 16.666%, 
-          #2b00ff 33.333%, 
-          #6a00ff 33.333%, 
-          #b300ff 50%, 
-          #f200ff 50%, 
-          #ff00d0 66.666%, 
-          #ff008c 66.666%, 
-          #ff003c 83.333%, 
-          #ff002b 83.333%);
+          #a270ff,
+          #7429ff 16.666%, 
+          #bb00ff 16.666%, 
+          #d900ff 33.333%, 
+          #ff00f7 33.333%, 
+          #8c00ff 50%, 
+          #5500ff 50%, 
+          #2600ff 66.666%, 
+          #0040ff 66.666%, 
+          #6e4aff 83.333%, 
+          #957aff 83.333%);
     
     /* Set the background size and repeat properties. */
     background-size: 100%;
