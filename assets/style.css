@@ -353,7 +353,7 @@ pre {
     
     /* Create the gradient. */
      background-image: linear-gradient(
-          #a270ff,
+          45deg,
           #7429ff 16.666%, 
           #bb00ff 16.666%, 
           #d900ff 33.333%, 
